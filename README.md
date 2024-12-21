@@ -40,8 +40,8 @@ This repository provides a basic implementation of JDBC (Java Database Connectiv
 
    ```properties
    db.url=jdbc:mysql://localhost:3306/your_database
-   db.username=your_username
-   db.password=your_password
+   db.username=root.
+   db.password=root.
    ```
 
 4. Build the project using Maven:
